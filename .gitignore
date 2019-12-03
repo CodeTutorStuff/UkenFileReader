@@ -18,7 +18,9 @@
 x64/
 x86/
 bld/
-[Bb]in/
+
+x/**
+!x/bin
 [Oo]bj/
 [Ll]og/
 
